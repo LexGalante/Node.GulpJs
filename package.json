@@ -1,0 +1,25 @@
+{
+  "name": "nodegulpjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexGalante/Node.GulpJs.git"
+  },
+  "author": "Alex Galante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LexGalante/Node.GulpJs/issues"
+  },
+  "homepage": "https://github.com/LexGalante/Node.GulpJs#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^3.1.0"
+  }
+}
